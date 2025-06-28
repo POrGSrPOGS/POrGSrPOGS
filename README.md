@@ -56,5 +56,5 @@ Have questions or a project in mind? Reach out about anything Luau-related:
 
 - 📧 [Email](mailto:POrGSrPOGS@gmail.com)
 - 💬 [Discord](https://discordapp.com/users/1089586133589045268) 
-- 🐦 [Twitter](https://x.com/POrGSrPOGS)
+- 🐦 [Twitter/X](https://x.com/POrGSrPOGS)
 - 🎮 [Roblox](https://roblox.com/users/4075244566/profile)
