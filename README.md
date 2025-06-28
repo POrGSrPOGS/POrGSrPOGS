@@ -11,7 +11,7 @@
 ### Fun Fact 💡
 
 - If you haven't already noticed, I'm obsessed with "porgs"!  
-- They're weird little creatures from *Star Wars*, based on puffins — and yes, that addiction made it into all my usernames  
+- They're strange creatures from *Star Wars*, based on puffins — and this addiction made it into all my usernames  
 - And if you've ever thought my name was weird: it's because "**pog**" is hiding in "**porg**"!  
 
 ![My Profile](https://raw.githubusercontent.com/POrGSrPOGS/POrGSrPOGS/main/images/Porg.jpg)
