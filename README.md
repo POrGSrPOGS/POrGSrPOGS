@@ -1,16 +1,15 @@
-## Hi there 👋
+# My portfolio 💼
 
-<!--
-**POrGSrPOGS/POrGSrPOGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 📝
 
-Here are some ideas to get you started:
+### What do I do?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a scripter who loves helping people make their **dream games possible**
+- I create **clean, easy to read code**
+- I'm also extremely modular meaning you can **expand your game with minimal effort**
+- I am completely **transparent**, whether that's pricing, or making sure I'm making **exactly** what you want and need
+
+### Fun fact
+
+- If you haven't already noticed something about me, it's that I love "porgs"!
+- 
