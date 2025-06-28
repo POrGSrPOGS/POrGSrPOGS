@@ -2,7 +2,7 @@
 
 ## About Me 📝
 
-### What Do I Do? 🔧
+### What Do I Do? 🛠️
 
 - I'm a scripter who loves helping people bring their **dream games to life**  
 - I'm fully **transparent** — whether it's about pricing or making sure I deliver **exactly** what you want and need  
@@ -27,7 +27,7 @@
 
 These 4 points show my **devotion to scripting**!
 
-### My Skills 🛠️
+### My Skills 📚
 
 - I write **clean, easy-to-read code**  
 - My code is extremely **modular**, meaning your game is easy to expand later  
