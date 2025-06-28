@@ -54,6 +54,7 @@ These 4 points show my **devotion to scripting**!
 
 Have questions or a project in mind? Reach out about anything Luau-related:
 
-- 📧 Email: **POrGSrPOGS@gmail.com**  
-- 💬 Discord: [Link to my profile]  
-- 🐦 Twitter: [Link to my profile]  
+- 📧 [Email](POrGSrPOGS@gmail.com)
+- 💬 [Discord](https://discordapp.com/users/1089586133589045268) 
+- 🐦 [Twitter](https://x.com/POrGSrPOGS)
+- 🎮 [Roblox](https://roblox.com/users/4075244566/profile)
